@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/avengers/static/css/main.470d02cd.chunk.css",
+    "main.js": "/avengers/static/js/main.c74c5306.chunk.js",
+    "main.js.map": "/avengers/static/js/main.c74c5306.chunk.js.map",
+    "runtime-main.js": "/avengers/static/js/runtime-main.03c8cd5b.js",
+    "runtime-main.js.map": "/avengers/static/js/runtime-main.03c8cd5b.js.map",
+    "static/js/2.88e8cedb.chunk.js": "/avengers/static/js/2.88e8cedb.chunk.js",
+    "static/js/2.88e8cedb.chunk.js.map": "/avengers/static/js/2.88e8cedb.chunk.js.map",
+    "index.html": "/avengers/index.html",
+    "precache-manifest.d98a4ab659c11f788b07a2786fd98b7d.js": "/avengers/precache-manifest.d98a4ab659c11f788b07a2786fd98b7d.js",
+    "service-worker.js": "/avengers/service-worker.js",
+    "static/css/main.470d02cd.chunk.css.map": "/avengers/static/css/main.470d02cd.chunk.css.map",
+    "static/js/2.88e8cedb.chunk.js.LICENSE": "/avengers/static/js/2.88e8cedb.chunk.js.LICENSE",
+    "static/media/logo.png": "/avengers/static/media/logo.c78762ab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03c8cd5b.js",
+    "static/js/2.88e8cedb.chunk.js",
+    "static/css/main.470d02cd.chunk.css",
+    "static/js/main.c74c5306.chunk.js"
+  ]
+}
