@@ -1,0 +1,21 @@
+.avenger {
+  border: lightgray 1px solid;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px black, -1px 1px 5px black;
+  transition: all ease-out 0.3s;
+  background: white;
+}
+
+.avenger:hover {
+  transform: scale(1.05);  
+}
+
+.avenger img {
+  max-width: 100%;
+}
+
+.avenger h3 {
+  text-align: center;
+}
